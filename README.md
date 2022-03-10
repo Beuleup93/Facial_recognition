@@ -51,13 +51,13 @@ Download link: https://visualstudio.microsoft.com/downloads/
 
 After downloading, open the Visual Studio Installer and just run through the process until you are taken to this screen.
 
-Capture d’écran 2022-03-11 à 00.21.40<img width="671" alt="image" src="https://user-images.githubusercontent.com/73121667/157771894-85ae3bf6-a6ba-4562-aaee-cfb800805e47.png">
+<img width="671" alt="image" src="https://user-images.githubusercontent.com/73121667/157771894-85ae3bf6-a6ba-4562-aaee-cfb800805e47.png">
 
 This is where you choose which features of Visual Studio 2017 you would like to download and install. Selections may vary for your specific use of the Studio but make sure to have the Visual C++ build tools selected and you would want to have the 4 items on the right to be checked which are: Windows 10 SDK, Visual C++ build tools for CMake, Testing tools core features — Build tools, and VC ++ 2015.3 v 14.00 toolset for desktop.
 
 After installation press the Windows key and type Edit the System Environment variables. A window will pop-up, select environment variables at the bottom right.
 
-Capture d’écran 2022-03-11 à 00.24.05<img width="299" alt="image" src="https://user-images.githubusercontent.com/73121667/157772156-b8c4d385-848e-4557-8e1d-565b2645fc70.png">
+<img width="299" alt="image" src="https://user-images.githubusercontent.com/73121667/157772156-b8c4d385-848e-4557-8e1d-565b2645fc70.png">
 
 Then, open your terminal (cmd) and type :
 
