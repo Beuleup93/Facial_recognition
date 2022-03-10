@@ -40,4 +40,4 @@ And finally, to execute the application, run it like this :
 
 Here is some screenshot to overview the app.
 
-275267006_314128980610053_4068538747068663930_n.png![image](https://user-images.githubusercontent.com/73121667/157770620-e0daa00e-0b47-4dbe-97ba-9e72e9da7a99.png)
+[image](https://user-images.githubusercontent.com/73121667/157770620-e0daa00e-0b47-4dbe-97ba-9e72e9da7a99.png)
