@@ -1,4 +1,4 @@
-# Facial_Recognition_with_Opencv
+# Facial_Recognition_with_Opencv and Streamlit
 
 This project is about facial recognition and identification on WEBCAM videos. More precisely, the aim of this project is to recognize automatically 
 students of the Master SISE 2021/2022 of the University of Lyon 2 in which we are part of.
