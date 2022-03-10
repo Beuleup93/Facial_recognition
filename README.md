@@ -26,3 +26,10 @@ Once this environment has been created in Anaconda, open a terminal in it like t
 
 Capture d’écran 2022-03-10 à 23.25.20<img width="699" alt="image" src="https://user-images.githubusercontent.com/73121667/157765205-7ebf6b80-09f2-4e17-a4ce-e7e13456a9ac.png">
 
+Go to the root of the main file used to run the application, namely the file runAll.py
+
+    cd /Users/gwladyskerhoas/Downloads/FaceRecognition
+
+And finally, to execute the application, run it like this :
+
+    streamlit run runAll.py
