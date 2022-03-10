@@ -36,6 +36,10 @@ And finally, to execute the application, run it like this :
 
     streamlit run runAll.py
     
+## Exception for windows computer
+
+This tutorial will cover the installation of dlib on Python with the Visual Studio 2017 for windows computer. Dlib is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems. 
+    
 ## Overview of our application
 
 Here are some screenshots to overview the app.
