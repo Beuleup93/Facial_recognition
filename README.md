@@ -39,6 +39,17 @@ And finally, to execute the application, run it like this :
 ## Exception for windows computer
 
 This tutorial will cover the installation of dlib on Python with the Visual Studio 2017 for windows computer. Dlib is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems. 
+
+I would strongly suggest using Python version 3.6.x for now. Second, you need to install CMake which is an extensible, open-source system that manages the build process in an operating system and in a compiler-independent manner.
+
+    pip install CMake
+    
+The approach that will be used here is using an installation of Visual Studio 2017 Community edition, which is the setup I have on this computer.
+
+Download link: https://visualstudio.microsoft.com/downloads/
+**Note: Make sure to select the Community edition.
+
+
     
 ## Overview of our application
 
