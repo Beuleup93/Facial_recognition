@@ -5,7 +5,9 @@ students of the Master SISE 2021/2022 of the University of Lyon 2 in which we ar
 
 ## Description of the application
 
-We build an interactive application coded in Streamlit (Python) which is able to drive the WEBCAM from a computer. In real time, the application detects the people present on the video, and more importantly, those who are part of the class of SISE 2021/2022. The application is also able to indicate the emotion that animates them (joy, fear, sadness, surprise, etc.), indicate their gender and their age. For those who are not part of the sise promotion the name 'unknown' is displayed. The list of people appearing in the video is saved in a text file.
+We build an interactive application coded in Streamlit (Python) which is able to drive the WEBCAM from a computer. In real time, the application detects the people present on the video, and more importantly, those who are part of the class of SISE 2021/2022. The application is also able to indicate the emotion that animates them (joy, fear, sadness, surprise, etc.), indicate their gender and their age. For those who are not part of the sise promotion the name 'unknown' is displayed. The list of people appearing in the video is saved in a text file. 
+
+In our application, you have the choose to identify the name of the people, their age, their gender... and each you change the fonctionnality detection, a video is recorded and all of these videos are saved in a dedicated folder.
 
 
 ## Installation to access to the app on your computer
