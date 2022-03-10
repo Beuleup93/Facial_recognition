@@ -35,3 +35,5 @@ Go to the root of the main file used to run the application, namely the file run
 And finally, to execute the application, run it like this :
 
     streamlit run runAll.py
+    
+## Overview of our application
