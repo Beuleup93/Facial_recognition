@@ -12,3 +12,12 @@ We build an application coded in Python which is able to
 
 First, you have to download all of the files which are in this github.
 Then, you will have to create a new environnement on your Anaconda.
+
+Let's open a prompt Anaconda and go to the directory path containing the .yml file. There is an example just below.
+
+    cd /Users/gwladyskerhoas/Downloads/FaceRecognition
+
+Execute the following command to create your new environment in which you will have all the necessary libraries to use our application.
+The file you have to use is the environment.yml.
+
+    conda env create -f environment.yml
