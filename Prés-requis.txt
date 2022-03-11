@@ -1,0 +1,10 @@
+prés requis: 
+ 	visual studio build tools, numpy, opencv, cmake, imutils, pillow
+
+0. install visual studi build tools 
+1. pip install cmake
+2. pip install imutils
+3. pip install pillow
+4. pip install dlib ou conda install -c conda-forge dlib
+
+
