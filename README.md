@@ -62,6 +62,8 @@ After installation press the Windows key and type Edit the System Environment va
 Then, open your terminal (cmd) and type :
 
     pip install dlib
+    
+To install dlib, all the prerequisites are listed in the file "Pré-requis.txt".
 
 
     
